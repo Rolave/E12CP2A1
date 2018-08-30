@@ -1,3 +1,7 @@
+# Actividad 024 - Bootstrap y SASS Proyecto en Heroku
+
+- Proyecto en Heroku [link a Heroku.](https://obscure-ridge-93582.herokuapp.com/)
+
 # Actividad 024 - Bootstrap y SASS
 
 - Para poder realizar este actividad debes haber realizado los cursos previos junto con los videos online correspondientes a la experiencia 12.
